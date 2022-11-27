@@ -21,11 +21,40 @@ body {
   text-align: center;
 }
 
-img {
+.Mercúrio {
+  width: 2rem;
+}
+
+.Vênus {
+  width: 5rem;
+}
+
+.Terra {
+  width: 5rem;
+}
+
+.Marte {
+  width: 3rem;
+}
+
+.Júpiter {
+  width: 10rem;
+}
+
+.Saturno {
   width: 9rem;
 }
 
+.Urano {
+  width: 8rem;
+}
+
+.Netuno {
+  width: 8rem;
+}
+
 .ul-planet {
+  align-items: center;
   display: flex;
   justify-content: space-evenly;
   margin: auto;
@@ -37,7 +66,66 @@ li {
   list-style: none;
 }
 
+.vector-ano, .vector-local, .vector-destino {
+  height: 15px;
+  width: 15px;
+}
+
 .missions {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.075);
   border-radius: 10px;
+  margin-left: 4%;
+  margin-right: 5.5%;
+  padding-top: 0.2%;
+}
+
+.missionsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.mission-card {
+  background-color: rgba(255, 255, 255, 0.103);
+  border: 1px solid rgba(255, 255, 255, 0.514);
+  border-radius: 5px;
+  font-size: 1.2rem;
+  margin: 1%;
+  padding: 10px;
+  width: 45%;
+}
+
+.div-infos-missions {
+  align-items: center;
+  border-top: 9px;
+  display: flex;
+  font-size: 1rem;
+  justify-content: space-between;
+  margin: 3px;
+  width: 100%;
+}
+
+.div-infos-missions img {
+  margin-right: 5px;
+}
+
+.div-destination {
+  align-items: center;
+  display: flex;
+  justify-content: right;
+}
+
+.div-geral-infos {
+  padding: 3px;
+}
+
+.divs {
+  align-items: baseline;
+  display: flex;
+}
+
+.footer {
+  font-size: 1.5rem;
+  padding: 5px;
+  text-align: center;
 }
