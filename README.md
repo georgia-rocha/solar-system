@@ -1,10 +1,20 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Boas-vindas ao repositório do projeto de Solar System!
+
+![img](solarSystem.gif)
+
+Link Deploy: https://georgia-rocha.github.io/solar-system
+
+<summary><strong>O que foi desenvolvido</strong></summary><br />
+Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa aplicação, uma pessoa usuária deverá ser capaz de:
+
+- Visualizar todos os planetas do sistema solar renderizados na tela;
+- Visualizar todas as cartas com informações sobre missões espaciais;
+
+## Objetivo
+
+Utilizar o apredizado passado pela Trybe da segunda sessão do módulo de Front-end que inclue:
+- React;
+- Renderização de componentes; 
+- Criar componentes de classe em React;
+- Fazer uso de PropTypes para validar as props de um componente.
+- Criar todo o layout e estilização do projeto seguindo o design no Figma.
