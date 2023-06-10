@@ -32,6 +32,13 @@ Utilizar o apredizado passado pela Trybe da segunda sessão do módulo de Front-
 - Fazer uso de PropTypes para validar as props de um componente.
 - Criar todo o layout e estilização do projeto seguindo o design no Figma.
 
+## Tecnologias utilizadas <a name="tecnologias"></a>
+- [**Node JS**](https://nodejs.org/en/)
+- [**Linter**](https://eslint.org/docs/latest/)
+- [**React**](https://react.dev/)
+- [**CSS**](https://www.w3schools.com/cssref/index.php)
+- [**PropTypes**](https://www.npmjs.com/package/prop-types)
+
 ## Requisitos Obrigatórios 100%
 
 - [x] 1. Crie um componente chamado Header
